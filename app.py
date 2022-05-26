@@ -1,1 +1,1 @@
-print("GigaChad")
+print("some string")
